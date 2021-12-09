@@ -1,0 +1,60 @@
+import image from './Image';
+export default restaurantData = [
+  {
+    menuId: 11,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.tuhocungdung,
+    description:
+      'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 12,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.chuyenbaythangba,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 14,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.ditraynuocnon,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 15,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.dapncuathoigian,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 111,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.dungkethong,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 112,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',  
+    avatarImage: image.otbaymau,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+  {
+    menuId: 113,
+    nameProducts: 'Laptop Asus ROG Strix G15 G513IH-HN015T',
+    avatarImage: image.doahongquyquyet,
+    description:'Asus ROG Strix G15 G513IH-HN015T với CPU manh mẽ R7 4800H và GPU GeForce GTX™ 1650. Mọi hoạt động từ chơi game tới thao tác đa nhiệm đều nhanh và mượt mà. Chơi game với màn hình siêu nhanh FHD 144Hz. Công nghệ Adaptive-Sync cho tựa game siêu mượt. Hệ thống tản nhiệt cao cấp giữ cho máy luôn mát mẻ dưới những thử thách cam go. Với bất kỳ game nào, bạn đều có thể có được những màn chơi hoàn hảo.',
+    price: 25000000,
+    author: 'Asus',
+  },
+];
